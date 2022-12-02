@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b0id
 - 👀 I’m interested in all things progressive functional computing
-- 🌱 I’m currently learning Rust, Go, Julia, MongoDB integrating them into scalable web frameworks and application. Secure coding, AppSec, and Network security.
+- 🌱 I’m currently learning Kotlin, Rust, Go, Julia, MongoDB integrating them into scalable web frameworks and applications. Secure coding, AppSec, and Network security.
 - 💞️ I’m looking to collaborate on any functional system that can be described.
 - 📫 How to reach me b0id.lonewolf.dev@gmail.com
 
