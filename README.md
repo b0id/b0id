@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @b0id
-- 👀 I’m interested in all things progressive functional computing
-- 🌱 I’m currently learning Rust, Go, Julia, NodeJS, Kotlin, Dart/Flutter NextJS,  integrating them into scalable web frameworks and applications. 
-- Secure coding, AppSec, and Network security. My goal is to be a proficient, hyper-technical fullstack or systems programming. Service mesh/Microservices implementations are a focus in my career. 
-- 💞️ I’m looking to collaborate on any functional system that can be described.
-- 📫 How to reach me b0id.lonewolf.dev@gmail.com
+# 👋 Hi, I’m @b0id
 
+I’m a systems-oriented developer with a deep interest in **progressive functional computing**, secure architecture, and fullstack scalability.
+
+## 🧠 Interests
+- Systems programming, async runtimes, memory models
+- Service mesh, microservices, and distributed systems
+- AppSec, network security, and secure coding practices
+
+## 🛠️ Currently Working With
+- 🦀 Rust, Go, Julia — for systems and runtime infrastructure
+- 🟨 NodeJS, Kotlin, Dart/Flutter — for fullstack app dev
+- ⚛️ Next.js — for modern web frameworks and front-end orchestration
+
+I’m actively learning and integrating these into **scalable, secure web and service frameworks**.
+
+## 🤝 Open to Collaboration
+I'm looking to collaborate on:
+- Functional, scalable systems
+- LLM tooling, orchestration, or inference runtimes
+- Any idea that pushes boundaries in performance or structure
+
+## 📫 Contact
+Reach me at **b0id.lonewolf.dev@gmail.com**
+
+---
+
+> *“Build clean systems. Make them fast. Learn everything.”*
 <!---
 b0id/b0id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
