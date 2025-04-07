@@ -8,7 +8,7 @@ I’m a systems-oriented developer with a deep interest in **progressive functio
 - AppSec, network security, and secure coding practices
 
 ## 🛠️ Currently Working With
-- 🦀 Rust, Go, Julia — for systems and runtime infrastructure
+- 🦀 Rust, Go, Python, Julia — for systems and runtime infrastructure
 - 🟨 NodeJS, Kotlin, Dart/Flutter — for fullstack app dev
 - ⚛️ Next.js — for modern web frameworks and front-end orchestration
 
