@@ -21,7 +21,7 @@ I'm looking to collaborate on:
 - Any idea that pushes boundaries in performance or structure
 
 ## 📫 Contact
-Reach me at **b0id.lonewolf.dev@gmail.com**
+Reach me at **b0id@sdf.org**
 
 ---
 
