@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @b0id
 
-I’m a systems-oriented developer with a deep interest in **progressive functional computing**, secure architecture, and fullstack scalability.
+I’m a systems-oriented developer with a deep interest in **progressive functional computing**, secure architecture, and fullstack scalability.  I am a hard line AMD, Arch Linux, ML tech user.
 
 ## 🧠 Interests
 - Systems programming, async runtimes, memory models
